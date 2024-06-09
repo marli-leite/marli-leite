@@ -2,9 +2,9 @@
 
  Sou iniciante nesse mundo curioso e fantástico da programação, comecei de forma autodidata com o básico de HTML, CSS, e JavaScript,
  pesquisando sobre os assuntos em diversas platafomas da nossa fabulosa internet.
- Porém no momento iniciei um desafio no BootCamp gratuíto na plataforma da DioInovation
- Está sendo um grande desafio, tenho desejo de ingressar na aréa o quanto antes poís sei que aprendemos ainda mais imergindo na prática e 
- estou empolgada e confiante de que irei aprender rápido.
+ Porém no momento iniciei um desafio no BootCamp de Java Básico, gratuíto na plataforma da DioInovation
+ Está sendo um grande desafio, tenho o desejo de ingressar na aréa o quanto antes poís sei que aprendemos ainda mais imergindo na prática e 
+ estou empolgada e confiante de que irei aprender de forma rápida.
 
 ## Desejem-me sorte. :)
 
